@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, it's Saba! 👋
+I am a new Software Developer trying to understand the workflow of GitHub.
 
 <!--
 **sabashameem/sabashameem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
